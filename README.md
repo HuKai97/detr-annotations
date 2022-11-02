@@ -6,7 +6,6 @@
 A Chinese annotated version of yolov5-5.0
 
 # CSDN源码讲解导航
-[CSDN：YOLOV5-U](https://blog.csdn.net/qq_38253797/article/details/119043919)
 
 - [【DETR源码解析】一、整体模型解析](https://blog.csdn.net/qq_38253797/article/details/127618806)
 - [【DETR源码解析】二、Backbone模块](https://blog.csdn.net/qq_38253797/article/details/127614228)
