@@ -3,7 +3,7 @@
 
 一个detr的中文注释版本，供大家参考学习！
 
-A Chinese annotated version of yolov5-5.0
+A Chinese annotated version of detr!
 
 # CSDN源码讲解导航
 
