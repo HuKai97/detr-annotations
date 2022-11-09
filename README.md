@@ -3,6 +3,8 @@
 
 一个detr的中文注释版本，供大家参考学习！
 
+主要是注释了：main.py和models/下面的相关模型文件。
+
 A Chinese annotated version of detr!
 
 # CSDN源码讲解导航
